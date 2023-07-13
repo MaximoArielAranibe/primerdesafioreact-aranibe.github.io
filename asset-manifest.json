@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/primerdesafioreact-aranibe.github.io/static/css/main.7d43de84.css",
+    "main.js": "/primerdesafioreact-aranibe.github.io/static/js/main.e0b079a4.js",
+    "static/media/logo.png": "/primerdesafioreact-aranibe.github.io/static/media/logo.d95b9045a7f51a819a05.png",
+    "index.html": "/primerdesafioreact-aranibe.github.io/index.html",
+    "main.7d43de84.css.map": "/primerdesafioreact-aranibe.github.io/static/css/main.7d43de84.css.map",
+    "main.e0b079a4.js.map": "/primerdesafioreact-aranibe.github.io/static/js/main.e0b079a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d43de84.css",
+    "static/js/main.e0b079a4.js"
+  ]
+}
